@@ -1,4 +1,4 @@
-#! /bin/bash
+#! /bin/sh
 
 echo "What is your name?"
 # input will be save into userName variable

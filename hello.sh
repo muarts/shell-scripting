@@ -1,4 +1,4 @@
-#! /bin/bash
+#! /bin/sh
 # this is a comment.
 
 # hello world example.
